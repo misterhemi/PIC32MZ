@@ -13,5 +13,5 @@ Here is an USB Audio Speaker example made using my USB device stack, without usi
 
 Mark S. Lewis AKA MisterHemi
 
-mark(at)LewisTechnoGroup.com
-misterhemi(at)yahoo.com
+mark(at)LewisTechnoGroup.com,
+ misterhemi(at)yahoo.com
