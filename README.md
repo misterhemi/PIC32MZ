@@ -23,7 +23,7 @@ usb_descriptors.h
  
 NOTE: Pin/Port F3 is used on 100 and 144 pin device for the USBID. It may be different on other packages.
 You can find the board initialization void initBoard() in main.c and you'll see:
- CNPUFbits.CNPUF3 = 1;       // Pull-up enables on RPF3 (To set USB as a B-Device ) 
+ CNPUFbits.CNPUF3 = 1;       // Pull-up enabled on RPF3 (To set USB as a B-Device ) 
 
 
 
