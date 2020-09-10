@@ -27,6 +27,10 @@ You can find the board initialization void initBoard() in main.c and you'll see:
  Also if you're using the USBID pin you probably won't need to enable the pull-up resistor (on RPF3),
  devices such as the PIC32MZ DA have a decicated USBID pin.
 
+UPDATE - 10 September 2020:
+I finally learned how to get the USB DMA to work. I may add an USB Audio Speaker with DMA example later
+but for now check the forum link above. I describe how to use the USB DMA in the update, in the first
+post.
 
 
 Mark S. Lewis AKA MisterHemi
